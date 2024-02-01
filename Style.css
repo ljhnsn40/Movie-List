@@ -1,7 +1,9 @@
 h1{ 
-    color: rgb(247, 247, 243)    ;
+    color: white    ;
     font: 2.5rem "Fira Sans", serif;
-    text-align: center;
+    text-align: center; 
+    animation-timing-function: 4s;
+    animation-direction: reverse;
 }
 body {
         background-color: black; border: 1px solid;
