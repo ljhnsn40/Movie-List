@@ -1,6 +1,8 @@
 h1{ 
-    color: white    ;
-    font: italic 1.2rem "Fira Sans", serif;}
+    color: rgb(247, 247, 243)    ;
+    font: 2.5rem "Fira Sans", serif;
+    text-align: center;
+}
 body {
         background-color: black; border: 1px solid;
       }  
